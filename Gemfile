@@ -59,7 +59,8 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem 'dry-validation'
+gem 'dry-schema'
+gem 'dry-validation', '~> 1.8.0'
 gem 'dry-struct'
 gem 'ostruct'
 
