@@ -63,7 +63,7 @@ group :test do
 end
 
 gem 'dry-schema'
-gem 'dry-validation', '~> 1.8.0'
+gem 'dry-validation', '~> 1.11.1'
 gem 'dry-struct'
 gem 'ostruct'
 
